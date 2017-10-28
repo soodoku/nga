@@ -1,0 +1,53 @@
+state,code,num,census,icpsr,icpsr2
+Alabama,AL,1,South,41,41 AL ALABAMA
+Alaska,AK,2,West,81,81 AK ALASKA  
+Arizona,AZ,3,West,61,61 AZ ARIZONA 
+Arkansas,AR,4,South,42,42 AR ARKANSAS 
+California,CA,5,West,71,71 CA CALIFORNIA
+Colorado,CO,6,West,62,62 CO COLORADO 
+Connecticut,CT,7,Northeast,1,01 CT CONNECTICUT
+Delaware,DE,8,South,11,11 DE DELAWARE 
+District of Columbia,DC,9,Northeast,55,55 DC DISTRICT OF COLUMBIA
+Florida,FL,10,South,43,43 FL FLORIDA 
+Georgia,GA,11,South,44,44 GA GEORGIA 
+Hawaii,HI,12,West,82,82 HI HAWAII  
+Idaho,ID,13,West,63,63 ID IDAHO   
+Illinois,IL,14,Midwest,21,21 IL ILLINOIS 
+Indiana,IN,15,Midwest,22,22 IN INDIANA 
+Iowa,IA,16,Midwest,31,31 IA IOWA    
+Kansas,KS,17,Midwest,32,32 KS KANSAS  
+Kentucky,KY,18,South,51,51 KY KENTUCKY 
+Louisiana,LA,19,South,45,45 LA LOUISIANA 
+Maine,ME,20,Northeast,2,02 ME MAINE   
+Maryland,MD,21,South,52,52 MD MARYLAND 
+Massachusetts,MA,22,Northeast,3,03 MA MASSACHUSETTS 
+Michigan,MI,23,Midwest,23,23 MI MICHIGAN 
+Minnesota,MN,24,Midwest,33,33 MN MINNESOTA 
+Mississippi,MS,25,South,46,46 MS MISSISSIPPI 
+Missouri,MO,26,Midwest,34,34 MO MISSOURI 
+Montana,MT,27,West,64,64 MT MONTANA 
+Nebraska,NE,28,Midwest,35,35 NE NEBRASKA 
+Nevada,NV,29,West,65,65 NV NEVADA  
+New Hampshire,NH,30,Northeast,4,04 NH NEW HAMSHIRE 
+New Jersey,NJ,31,Northeast,12,12 NJ NEW JERSEY 
+New Mexico,NM,32,West,66,66 NM NEW MEXICO 
+New York,NY,33,Northeast,13,13 NY NEW YORK 
+North Carolina,NC,34,South,47,47 NC NORTH CAROLINA 
+North Dakota,ND,35,Midwest,36,36 ND NORTH DAKOTA 
+Ohio,OH,36,Midwest,24,24 OH OHIO    
+Oklahoma,OK,37,South,53,53 OK OKLAHOMA 
+Oregon,OR,38,West,72,72 OR OREGON  
+Pennsylvania,PA,39,Northeast,14,14 PA PENNSYLVANIA 
+Rhode Island,RI,40,Northeast,5,05 RI RHODE ISLAND 
+South Carolina,SC,41,South,48,48 SC SOUTH CAROLINA 
+South Dakota,SD,42,Midwest,37,37 SD SOUTH DAKOTA 
+Tennessee,TN,43,South,54,54 TN TENNESSEE 
+Texas,TX,44,South,49,49 TX TEXAS   
+Utah,UT,45,West,67,67 UT UTAH    
+Vermont,VT,46,Northeast,6,06 VT VERMONT 
+Virginia,VA,47,South,40,40 VA VIRGINIA 
+Washington,WA,48,West,73,73 WA WASHINGTON 
+West Virginia,WV,49,South,56,56 WV WEST VIRGINA 
+Wisconsin,WI,50,Midwest,25,25 WI WISCONSIN 
+Wyoming,WY,51,West,68,68 WY WYOMING 
+Outside the US,,52,NA,NA,
